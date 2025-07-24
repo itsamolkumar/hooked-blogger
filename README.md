@@ -12,7 +12,7 @@
 ### 🌐 Live Demo
 
 🚀 Check out the live project here:  
-👉 [https://hooked-blogger.vercel.app](https://hooked-blogger.vercel.app) <!-- 🔁 Replace with your actual deployed link -->
+👉 [https://hooked-blogger.vercel.app](https://hooked-blogger.vercel.app/) <!-- 🔁 Replace with your actual deployed link -->
 
 ---
 
